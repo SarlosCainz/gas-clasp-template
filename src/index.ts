@@ -1,5 +1,3 @@
-import moment from 'moment';
-
-const logTime = () => {
-  Logger.log(moment.now());
+const myFunction = () => {
+  Logger.log("myFunction");
 }
